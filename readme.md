@@ -1,4 +1,4 @@
-EarthArtFinder will be an app that allows the user to view or find artpieces throughout the world using google maps and display the current temperature/weather condition
+EarthArtFinder will be an app that allows the user to view and find artpieces throughout the world using google maps and display the current temperature/weather condition
 where the selected artpiece is located. The app will pull in information from Google Maps API for the map and Dark Sky API for weather to accomplish this. In portrait view,
 Tapping on an item in the 
 list will change 
